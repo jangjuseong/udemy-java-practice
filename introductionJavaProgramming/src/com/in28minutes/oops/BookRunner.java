@@ -10,6 +10,10 @@ public class BookRunner {
 		artOfComputerProgramming.books();
 		effectiveJava.books();
 		cleanCode.books();
+		
+		artOfComputerProgramming.getNoOfCopies(10);
+		effectiveJava.getNoOfCopies(3);
+		cleanCode.getNoOfCopies(20);
 
 	}
 
